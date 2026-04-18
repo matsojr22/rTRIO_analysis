@@ -1,0 +1,832 @@
+Totals,,Count,,
+Region Acronym,Region Name,M145,M146,M149
+A13,Dopaminergic A13 group,0,0,0
+AAA,Anterior amygdalar area,0,18,0
+ACA,Anterior cingulate area,0,0,0
+ACAd,"Anterior cingulate area, dorsal part",0,0,0
+ACAv,"Anterior cingulate area, ventral part",0,0,3
+ACAv6a,"Anterior cingulate area, ventral part, 6a",0,0,0
+ACAv6b,"Anterior cingulate area, ventral part, 6b",0,0,0
+ACB,Nucleus accumbens,0,0,5
+ACVI,Accessory abducens nucleus,0,0,0
+ACVII,Accessory facial motor nucleus,0,0,0
+AD,Anterodorsal nucleus,0,1,0
+ADP,Anterodorsal preoptic nucleus,0,0,0
+AHA,Anterior hypothalamic area,0,0,0
+AHN,Anterior hypothalamic nucleus,0,6,0
+AHNa,"Anterior hypothalamic nucleus, anterior part",0,0,0
+AHNc,"Anterior hypothalamic nucleus, central part",0,0,0
+AHNd,"Anterior hypothalamic nucleus, dorsal part",0,0,0
+AHNp,"Anterior hypothalamic nucleus, posterior part",0,0,0
+AI,Agranular insular area,0,0,0
+AId,"Agranular insular area, dorsal part",0,0,4
+AIp,"Agranular insular area, posterior part",0,2,0
+AIv,"Agranular insular area, ventral part",0,0,0
+AM,Anteromedial nucleus,0,0,0
+AMB,Nucleus ambiguus,0,0,0
+AMBd,"Nucleus ambiguus, dorsal division",0,0,0
+AMBv,"Nucleus ambiguus, ventral division",0,0,0
+AMd,"Anteromedial nucleus, dorsal part",0,1,0
+AMv,"Anteromedial nucleus, ventral part",1,4,1
+AN,Ansiform lobule,0,0,0
+ANcr1,Crus 1,0,0,0
+ANcr2,Crus 2,0,0,0
+AOB,Accessory olfactory bulb,0,0,0
+AON,Anterior olfactory nucleus,0,0,4
+AONd,"Anterior olfactory nucleus, dorsal part",0,0,0
+AONe,"Anterior olfactory nucleus, external part",0,0,0
+AONl,"Anterior olfactory nucleus, lateral part",0,0,0
+AONm,"Anterior olfactory nucleus, medial part",0,0,0
+AONpv,"Anterior olfactory nucleus, posteroventral part",0,0,0
+AP,Area postrema,0,0,0
+APN,Anterior pretectal nucleus,2,2,0
+APr,Area prostriata,0,0,7
+AQ,cerebral aqueduct,0,0,0
+ARH,Arcuate hypothalamic nucleus,0,0,0
+ASO,Accessory supraoptic group,0,0,0
+AT,Anterior tegmental nucleus,0,0,0
+ATN,Anterior group of the dorsal thalamus,0,0,0
+AUD,Auditory areas,0,0,0
+AUDd,Dorsal auditory area,14,5,0
+AUDp,Primary auditory area,42,3,0
+AUDpo,Posterior auditory area,33,1,0
+AUDv,Ventral auditory area,13,1,0
+AV,Anteroventral nucleus of thalamus,0,0,0
+AVP,Anteroventral preoptic nucleus,0,0,0
+AVPV,Anteroventral periventricular nucleus,0,0,0
+Acs5,Accessory trigeminal nucleus,0,0,0
+B,Barrington's nucleus,0,0,0
+BA,Bed nucleus of the accessory olfactory tract,0,0,0
+BAC,Bed nucleus of the anterior commissure,0,0,0
+BLA,Basolateral amygdalar nucleus,0,0,0
+BLAa,"Basolateral amygdalar nucleus, anterior part",0,24,0
+BLAp,"Basolateral amygdalar nucleus, posterior part",0,0,0
+BLAv,"Basolateral amygdalar nucleus, ventral part",0,0,0
+BMA,Basomedial amygdalar nucleus,0,0,0
+BMAa,"Basomedial amygdalar nucleus, anterior part",0,19,0
+BMAp,"Basomedial amygdalar nucleus, posterior part",0,0,0
+BS,Brain stem,0,0,0
+BST,Bed nuclei of the stria terminalis,0,0,1
+BSTa,"Bed nuclei of the stria terminalis, anterior division",0,0,0
+BSTal,"Bed nuclei of the stria terminalis, anterior division, anterolateral area",0,0,0
+BSTam,"Bed nuclei of the stria terminalis, anterior division, anteromedial area",0,0,0
+BSTd,"Bed nuclei of the stria terminalis, posterior division, dorsal nucleus",0,0,0
+BSTdm,"Bed nuclei of the stria terminalis, anterior division, dorsomedial nucleus",0,0,0
+BSTfu,"Bed nuclei of the stria terminalis, anterior division, fusiform nucleus",0,0,0
+BSTif,"Bed nuclei of the stria terminalis, posterior division, interfascicular nucleus",0,0,0
+BSTju,"Bed nuclei of the stria terminalis, anterior division, juxtacapsular nucleus",0,0,0
+BSTmg,"Bed nuclei of the stria terminalis, anterior division, magnocellular nucleus",0,0,0
+BSTov,"Bed nuclei of the stria terminalis, anterior division, oval nucleus",0,0,0
+BSTp,"Bed nuclei of the stria terminalis, posterior division",0,0,0
+BSTpr,"Bed nuclei of the stria terminalis, posterior division, principal nucleus",0,0,0
+BSTrh,"Bed nuclei of the stria terminalis, anterior division, rhomboid nucleus",0,0,0
+BSTse,"Bed nuclei of the stria terminalis, posterior division, strial extension",0,0,0
+BSTtr,"Bed nuclei of the stria terminalis, posterior division, transverse nucleus",0,0,0
+BSTv,"Bed nuclei of the stria terminalis, anterior division, ventral nucleus",0,0,0
+CA,Ammon's horn,0,0,0
+CA1,Field CA1,19,13,1
+CA1slm,"Field CA1, stratum lacunosum-moleculare",14,0,1
+CA1so,"Field CA1, stratum oriens",133,1,1
+CA1sr,"Field CA1, stratum radiatum",61,19,0
+CA2,Field CA2,0,0,0
+CA2slm,"Field CA2, stratum lacunosum-moleculare",0,1,0
+CA2so,"Field CA2, stratum oriens",0,0,0
+CA2sr,"Field CA2, stratum radiatum",0,0,0
+CA3,Field CA3,4,0,0
+CA3slm,"Field CA3, stratum lacunosum-moleculare",0,1,0
+CA3slu,"Field CA3, stratum lucidum",20,0,0
+CA3so,"Field CA3, stratum oriens",60,27,0
+CA3sr,"Field CA3, stratum radiatum",31,15,0
+CB,Cerebellum,0,0,0
+CBN,Cerebellar nuclei,0,0,0
+CBX,Cerebellar cortex,0,0,0
+CEA,Central amygdalar nucleus,0,0,0
+CEAc,"Central amygdalar nucleus, capsular part",0,22,0
+CEAl,"Central amygdalar nucleus, lateral part",1,6,0
+CEAm,"Central amygdalar nucleus, medial part",0,39,1
+CENT,Central lobule,0,0,0
+CENT2,Lobule II,0,0,0
+CENT3,Lobule III,0,0,0
+CH,Cerebrum,0,0,0
+CL,Central lateral nucleus of the thalamus,0,0,0
+CLA,Claustrum,0,0,0
+CLI,Central linear nucleus raphe,0,0,0
+CM,Central medial nucleus of the thalamus,0,0,1
+CN,Cochlear nuclei,0,0,0
+CNU,Cerebral nuclei,0,0,0
+CNlam,Granular lamina of the cochlear nuclei,0,0,0
+CNspg,"Cochlear nucleus, subpedunclular granular region",0,0,0
+COA,Cortical amygdalar area,0,0,0
+COAa,"Cortical amygdalar area, anterior part",1,21,0
+COAp,"Cortical amygdalar area, posterior part",0,0,0
+COApl,"Cortical amygdalar area, posterior part, lateral zone",0,0,0
+COApm,"Cortical amygdalar area, posterior part, medial zone",0,0,0
+COPY,Copula pyramidis,0,0,0
+CP,Caudoputamen,4,21,6
+CS,Superior central nucleus raphe,0,0,0
+CSl,"Superior central nucleus raphe, lateral part",0,0,0
+CSm,"Superior central nucleus raphe, medial part",0,0,0
+CTX,Cerebral cortex,0,0,0
+CTXpl,Cortical plate,0,0,0
+CTXsp,Cortical subplate,0,9,0
+CU,Cuneate nucleus,0,0,0
+CUL,Culmen,0,0,0
+CUL4,Lobule IV,0,0,0
+"CUL4, 5",Lobules IV-V,0,0,0
+CUL5,Lobule V,0,0,0
+CUN,Cuneiform nucleus,0,0,0
+DCN,Dorsal column nuclei,0,0,0
+DCO,Dorsal cochlear nucleus,0,0,0
+DEC,Declive (VI),0,0,0
+DG,Dentate gyrus,33,4,54
+DG-sgz,"Dentate gyrus, subgranular zone",0,0,0
+DGcr,Dentate gyrus crest,0,0,0
+DGlb,Dentate gyrus lateral blade,0,0,0
+DGmb,Dentate gyrus medial blade,0,0,0
+DMH,Dorsomedial nucleus of the hypothalamus,0,0,0
+DMHa,"Dorsomedial nucleus of the hypothalamus, anterior part",0,0,0
+DMHp,"Dorsomedial nucleus of the hypothalamus, posterior part",0,0,0
+DMHv,"Dorsomedial nucleus of the hypothalamus, ventral part",0,0,0
+DMX,Dorsal motor nucleus of the vagus nerve,0,0,0
+DN,Dentate nucleus,0,0,0
+DORpm,"Thalamus, polymodal association cortex related",0,0,0
+DORsm,"Thalamus, sensory-motor cortex related",0,0,0
+DP,Dorsal peduncular area,0,0,0
+DR,Dorsal nucleus raphe,0,0,0
+DT,Dorsal terminal nucleus of the accessory optic tract,0,0,0
+DTN,Dorsal tegmental nucleus,0,0,0
+ECO,Efferent cochlear group,0,0,0
+ECT,Ectorhinal area,3,0,0
+ECU,External cuneate nucleus,0,0,0
+ENT,Entorhinal area,0,0,0
+ENTl,"Entorhinal area, lateral part",5,18,32
+ENTm,"Entorhinal area, medial part, dorsal zone",0,0,41
+ENTmv,"Entorhinal area, medial part, ventral zone",0,0,0
+EP,Endopiriform nucleus,0,0,0
+EPI,Epithalamus,0,0,0
+EPd,"Endopiriform nucleus, dorsal part",0,13,0
+EPv,"Endopiriform nucleus, ventral part",0,34,1
+EV,Efferent vestibular nucleus,0,0,0
+EW,Edinger-Westphal nucleus,0,0,0
+Eth,Ethmoid nucleus of the thalamus,0,0,0
+FC,Fasciola cinerea,0,0,0
+FF,Fields of Forel,0,0,0
+FL,Flocculus,0,0,0
+FN,Fastigial nucleus,0,0,0
+FOTU,Folium-tuber vermis (VII),0,0,0
+FRP,"Frontal pole, cerebral cortex",0,0,0
+FS,Fundus of striatum,0,7,0
+GENd,"Geniculate group, dorsal thalamus",0,0,0
+GENv,"Geniculate group, ventral thalamus",0,0,0
+GPe,"Globus pallidus, external segment",0,23,0
+GPi,"Globus pallidus, internal segment",0,19,0
+GR,Gracile nucleus,0,0,0
+GRN,Gigantocellular reticular nucleus,0,0,0
+GU,Gustatory areas,0,0,1
+HATA,Hippocampo-amygdalar transition area,0,0,0
+HB,Hindbrain,0,0,0
+HEM,Hemispheric regions,0,0,0
+HIP,Hippocampal region,0,0,0
+HPF,Hippocampal formation,8,6,1
+HY,Hypothalamus,0,17,0
+I5,Intertrigeminal nucleus,0,0,0
+IA,Intercalated amygdalar nucleus,0,10,0
+IAD,Interanterodorsal nucleus of the thalamus,0,0,0
+IAM,Interanteromedial nucleus of the thalamus,0,0,0
+IB,Interbrain,0,0,0
+IC,Inferior colliculus,0,0,0
+ICB,Infracerebellar nucleus,0,0,0
+ICc,"Inferior colliculus, central nucleus",0,0,0
+ICd,"Inferior colliculus, dorsal nucleus",0,0,0
+ICe,"Inferior colliculus, external nucleus",0,0,0
+IF,Interfascicular nucleus raphe,0,0,0
+IG,Induseum griseum,0,0,1
+IGL,Intergeniculate leaflet of the lateral geniculate complex,1,0,0
+III,Oculomotor nucleus,0,0,0
+IIIn,oculomotor nerve,0,0,0
+IIn,optic nerve,0,0,0
+ILA,Infralimbic area,0,0,0
+ILM,Intralaminar nuclei of the dorsal thalamus,0,0,0
+IMD,Intermediodorsal nucleus of the thalamus,0,0,0
+INC,Interstitial nucleus of Cajal,0,0,0
+INV,Interstitial nucleus of the vestibular nerve,0,0,0
+IO,Inferior olivary complex,0,0,0
+IP,Interposed nucleus,0,0,0
+IPA,"Interpeduncular nucleus, apical",0,0,0
+IPC,"Interpeduncular nucleus, caudal",0,0,0
+IPDL,"Interpeduncular nucleus, dorsolateral",0,0,0
+IPDM,"Interpeduncular nucleus, dorsomedial",0,0,0
+IPF,Interpeduncular fossa,0,0,0
+IPI,"Interpeduncular nucleus, intermediate",0,0,0
+IPL,"Interpeduncular nucleus, lateral",0,0,0
+IPN,Interpeduncular nucleus,0,0,0
+IPR,"Interpeduncular nucleus, rostral",0,0,0
+IPRL,"Interpeduncular nucleus, rostrolateral",0,0,0
+IRN,Intermediate reticular nucleus,0,0,0
+ISN,Inferior salivatory nucleus,0,0,0
+IV,Trochlear nucleus,0,0,0
+IVF,interventricular foramen,0,0,0
+IVd,trochlear nerve decussation,0,0,0
+IVn,trochlear nerve,0,0,0
+IXn,glossopharyngeal nerve,0,0,0
+In,olfactory nerve,0,0,0
+InCo,Intercollicular nucleus,0,0,0
+IntG,Intermediate geniculate nucleus,0,0,0
+Isocortex,Isocortex,0,0,0
+KF,Koelliker-Fuse subnucleus,0,0,0
+LA,Lateral amygdalar nucleus,0,1,0
+LAT,Lateral group of the dorsal thalamus,0,0,0
+LAV,Lateral vestibular nucleus,0,0,0
+LC,Locus ceruleus,0,0,0
+LD,Lateral dorsal nucleus of thalamus,11,2,0
+LDT,Laterodorsal tegmental nucleus,0,0,0
+LGd,Dorsal part of the lateral geniculate complex,0,0,0
+LGd-co,"Dorsal part of the lateral geniculate complex, core",13,28,7
+LGd-ip,"Dorsal part of the lateral geniculate complex, ipsilateral zone",18,3,3
+LGd-sh,"Dorsal part of the lateral geniculate complex, shell",71,16,1
+LGv,Ventral part of the lateral geniculate complex,34,21,0
+LGvl,"Ventral part of the lateral geniculate complex, lateral zone",0,0,0
+LGvm,"Ventral part of the lateral geniculate complex, medial zone",0,0,0
+LH,Lateral habenula,0,0,0
+LHA,Lateral hypothalamic area,0,98,0
+LIN,Linear nucleus of the medulla,0,0,0
+LING,Lingula (I),0,0,0
+LIW,Lost in Warp,290,99,1510
+LM,Lateral mammillary nucleus,0,0,0
+LP,Lateral posterior nucleus of the thalamus,9,5,1
+LPO,Lateral preoptic area,0,0,1
+LRN,Lateral reticular nucleus,0,0,0
+LRNm,"Lateral reticular nucleus, magnocellular part",0,0,0
+LRNp,"Lateral reticular nucleus, parvicellular part",0,0,0
+LS,Lateral septal nucleus,0,0,0
+LSS,Lateral strip of striatum,0,0,0
+LSX,Lateral septal complex,0,0,0
+LSc,"Lateral septal nucleus, caudal (caudodorsal) part",0,0,0
+LSr,"Lateral septal nucleus, rostral (rostroventral) part",0,0,0
+LSv,"Lateral septal nucleus, ventral part",0,0,0
+LT,Lateral terminal nucleus of the accessory optic tract,0,0,0
+LTN,Lateral tegmental nucleus,0,0,0
+LZ,Hypothalamic lateral zone,0,0,0
+MA,Magnocellular nucleus,0,0,0
+MA3,Medial accesory oculomotor nucleus,0,0,0
+MARN,Magnocellular reticular nucleus,0,0,0
+MB,Midbrain,1,1,2
+MBO,Mammillary body,0,0,0
+MBmot,"Midbrain, motor related",0,0,0
+MBsen,"Midbrain, sensory related",0,0,0
+MBsta,"Midbrain, behavioral state related",0,0,0
+MD,Mediodorsal nucleus of thalamus,0,0,0
+MDRN,Medullary reticular nucleus,0,0,0
+MDRNd,"Medullary reticular nucleus, dorsal part",0,0,0
+MDRNv,"Medullary reticular nucleus, ventral part",0,0,0
+MDc,"Mediodorsal nucleus of the thalamus, central part",0,0,0
+MDl,"Mediodorsal nucleus of the thalamus, lateral part",0,0,0
+MDm,"Mediodorsal nucleus of the thalamus, medial part",0,0,0
+ME,Median eminence,0,0,0
+MEA,Medial amygdalar nucleus,0,18,0
+MEAad,"Medial amygdalar nucleus, anterodorsal part",0,0,0
+MEAav,"Medial amygdalar nucleus, anteroventral part",0,0,0
+MEApd,"Medial amygdalar nucleus, posterodorsal part",0,0,0
+MEApv,"Medial amygdalar nucleus, posteroventral part",0,0,0
+MED,Medial group of the dorsal thalamus,0,0,0
+MEPO,Median preoptic nucleus,0,0,0
+MEV,Midbrain trigeminal nucleus,0,0,0
+MEZ,Hypothalamic medial zone,0,0,0
+MG,Medial geniculate complex,0,0,0
+MGd,"Medial geniculate complex, dorsal part",1,0,0
+MGm,"Medial geniculate complex, medial part",0,0,0
+MGv,"Medial geniculate complex, ventral part",0,0,0
+MH,Medial habenula,0,0,0
+MM,Medial mammillary nucleus,0,0,0
+MMd,"Medial mammillary nucleus, dorsal part",0,0,0
+MMl,"Medial mammillary nucleus, lateral part",0,0,0
+MMm,"Medial mammillary nucleus, medial part",0,0,0
+MMme,"Medial mammillary nucleus, median part",0,0,0
+MMp,"Medial mammillary nucleus, posterior part",0,0,0
+MO,Somatomotor areas,0,0,0
+MOB,Main olfactory bulb,0,0,0
+MOp,Primary motor area,0,0,5
+MOs,Secondary motor area,0,0,10
+MPN,Medial preoptic nucleus,0,0,0
+MPNc,"Medial preoptic nucleus, central part",0,0,0
+MPNl,"Medial preoptic nucleus, lateral part",0,0,0
+MPNm,"Medial preoptic nucleus, medial part",0,0,0
+MPO,Medial preoptic area,0,0,0
+MPT,Medial pretectal area,0,0,0
+MRN,Midbrain reticular nucleus,0,0,1
+MRNm,"Midbrain reticular nucleus, magnocellular part",0,0,0
+MRNmg,"Midbrain reticular nucleus, magnocellular part, general",0,0,0
+MRNp,"Midbrain reticular nucleus, parvicellular part",0,0,0
+MS,Medial septal nucleus,0,0,0
+MSC,Medial septal complex,0,0,0
+MT,Medial terminal nucleus of the accessory optic tract,0,0,0
+MTN,Midline group of the dorsal thalamus,0,0,0
+MV,Medial vestibular nucleus,0,0,0
+MY,Medulla,0,0,0
+MY-mot,"Medulla, motor related",0,0,0
+MY-sat,"Medulla, behavioral state related",0,0,0
+MY-sen,"Medulla, sensory related",0,0,0
+NB,Nucleus of the brachium of the inferior colliculus,0,0,0
+NC,Nucleus circularis,0,0,0
+ND,Nucleus of Darkschewitsch,0,0,0
+NDB,Diagonal band nucleus,0,0,0
+NI,Nucleus incertus,0,0,0
+NIS,Nucleus intercalatus,0,0,0
+NLL,Nucleus of the lateral lemniscus,0,0,1
+NLLd,"Nucleus of the lateral lemniscus, dorsal part",0,0,0
+NLLh,"Nucleus of the lateral lemniscus, horizontal part",0,0,0
+NLLv,"Nucleus of the lateral lemniscus, ventral part",0,0,0
+NLOT,Nucleus of the lateral olfactory tract,0,9,0
+NOD,Nodulus (X),0,0,0
+NOT,Nucleus of the optic tract,0,6,1
+NPC,Nucleus of the posterior commissure,0,0,0
+NR,Nucleus of Roller,0,0,0
+NTB,Nucleus of the trapezoid body,0,0,0
+NTS,Nucleus of the solitary tract,0,0,0
+NTSce,"Nucleus of the solitary tract, central part",0,0,0
+NTSco,"Nucleus of the solitary tract, commissural part",0,0,0
+NTSge,"Nucleus of the solitary tract, gelatinous part",0,0,0
+NTSl,"Nucleus of the solitary tract, lateral part",0,0,0
+NTSm,"Nucleus of the solitary tract, medial part",0,0,0
+OLF,Olfactory areas,0,1,1
+OP,Olivary pretectal nucleus,0,0,0
+ORB,Orbital area,0,0,0
+ORBl,"Orbital area, lateral part",0,0,0
+ORBm,"Orbital area, medial part",0,0,0
+ORBv,"Orbital area, ventral part",0,0,0
+ORBvl,"Orbital area, ventrolateral part",0,0,2
+OT,Olfactory tubercle,0,0,3
+OV,Vascular organ of the lamina terminalis,0,0,0
+P,Pons,0,0,2
+P-mot,"Pons, motor related",0,0,0
+P-sat,"Pons, behavioral state related",0,0,0
+P-sen,"Pons, sensory related",0,0,0
+P5,Peritrigeminal zone,0,0,0
+PA,Posterior amygdalar nucleus,0,0,0
+PAA,Piriform-amygdalar area,0,9,0
+PAG,Periaqueductal gray,0,0,0
+PAL,Pallidum,0,41,0
+PALc,"Pallidum, caudal region",0,0,0
+PALd,"Pallidum, dorsal region",0,0,0
+PALm,"Pallidum, medial region",0,0,0
+PALv,"Pallidum, ventral region",0,0,0
+PAR,Parasubiculum,0,0,0
+PARN,Parvicellular reticular nucleus,0,0,0
+PAS,Parasolitary nucleus,0,0,0
+PB,Parabrachial nucleus,0,0,0
+PBG,Parabigeminal nucleus,0,0,0
+PBl,"Parabrachial nucleus, lateral division",0,0,0
+PBlc,"Parabrachial nucleus, lateral division, central lateral part",0,0,0
+PBld,"Parabrachial nucleus, lateral division, dorsal lateral part",0,0,0
+PBle,"Parabrachial nucleus, lateral division, external lateral part",0,0,0
+PBls,"Parabrachial nucleus, lateral division, superior lateral part",0,0,0
+PBlv,"Parabrachial nucleus, lateral division, ventral lateral part",0,0,0
+PBm,"Parabrachial nucleus, medial division",0,0,0
+PBme,"Parabrachial nucleus, medial division, external medial part",0,0,0
+PBmm,"Parabrachial nucleus, medial division, medial medial part",0,0,0
+PBmv,"Parabrachial nucleus, medial division, ventral medial part",0,0,0
+PC5,Parvicellular motor 5 nucleus,0,0,0
+PCG,Pontine central gray,0,0,0
+PCN,Paracentral nucleus,0,0,0
+PD,Posterodorsal preoptic nucleus,0,0,0
+PDTg,Posterodorsal tegmental nucleus,0,0,0
+PERI,Perirhinal area,1,0,0
+PF,Parafascicular nucleus,0,0,0
+PFL,Paraflocculus,0,0,0
+PG,Pontine gray,0,0,4
+PGRN,Paragigantocellular reticular nucleus,0,0,0
+PGRNd,"Paragigantocellular reticular nucleus, dorsal part",0,0,0
+PGRNl,"Paragigantocellular reticular nucleus, lateral part",0,0,0
+PH,Posterior hypothalamic nucleus,0,0,0
+PHY,Perihypoglossal nuclei,0,0,0
+PIL,Posterior intralaminar thalamic nucleus,0,0,0
+PIN,Pineal body,0,0,0
+PIR,Piriform area,1,77,1
+PIS,pineal stalk,0,0,0
+PL,Prelimbic area,0,0,0
+PMR,Paramedian reticular nucleus,0,0,0
+PMd,Dorsal premammillary nucleus,0,0,0
+PMv,Ventral premammillary nucleus,0,0,0
+PN,Paranigral nucleus,0,0,0
+PO,Posterior complex of the thalamus,3,0,0
+POL,Posterior limiting nucleus of the thalamus,1,0,0
+POR,"Superior olivary complex, periolivary region",0,0,0
+POST,Postsubiculum,2,11,3
+PP,Peripeduncular nucleus,0,0,0
+PPN,Pedunculopontine nucleus,0,0,0
+PPT,Posterior pretectal nucleus,0,0,0
+PPY,Parapyramidal nucleus,0,0,0
+PPYd,"Parapyramidal nucleus, deep part",0,0,0
+PPYs,"Parapyramidal nucleus, superficial part",0,0,0
+PR,Perireunensis nucleus,0,4,0
+PRC,Precommissural nucleus,0,0,0
+PRE,Presubiculum,0,0,0
+PRM,Paramedian lobule,0,0,0
+PRNc,"Pontine reticular nucleus, caudal part",0,0,0
+PRNr,Pontine reticular nucleus,0,0,0
+PRNv,"Pontine reticular nucleus, ventral part",0,0,0
+PRP,Nucleus prepositus,0,0,0
+PRT,Pretectal region,0,0,0
+PS,Parastrial nucleus,0,0,0
+PSCH,Suprachiasmatic preoptic nucleus,0,0,0
+PST,Preparasubthalamic nucleus,0,0,0
+PSTN,Parasubthalamic nucleus,0,0,0
+PSV,Principal sensory nucleus of the trigeminal,0,0,0
+PT,Parataenial nucleus,0,0,0
+PTLp,Posterior parietal association areas,0,0,0
+PVH,Paraventricular hypothalamic nucleus,0,0,0
+PVHam,"Paraventricular hypothalamic nucleus, magnocellular division, anterior magnocellular part",0,0,0
+PVHap,"Paraventricular hypothalamic nucleus, parvicellular division, anterior parvicellular part",0,0,0
+PVHd,"Paraventricular hypothalamic nucleus, descending division",0,8,0
+PVHdp,"Paraventricular hypothalamic nucleus, descending division, dorsal parvicellular part",0,0,0
+PVHf,"Paraventricular hypothalamic nucleus, descending division, forniceal part",0,0,0
+PVHlp,"Paraventricular hypothalamic nucleus, descending division, lateral parvicellular part",0,0,0
+PVHm,"Paraventricular hypothalamic nucleus, magnocellular division",0,0,0
+PVHmm,"Paraventricular hypothalamic nucleus, magnocellular division, medial magnocellular part",0,0,0
+PVHmpd,"Paraventricular hypothalamic nucleus, parvicellular division, medial parvicellular part, dorsal zone",0,0,0
+PVHmpv,"Paraventricular hypothalamic nucleus, descending division, medial parvicellular part, ventral zone",0,0,0
+PVHp,"Paraventricular hypothalamic nucleus, parvicellular division",0,0,0
+PVHpm,"Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part",0,0,0
+PVHpml,"Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, lateral zone",0,0,0
+PVHpmm,"Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, medial zone",0,0,0
+PVHpv,"Paraventricular hypothalamic nucleus, parvicellular division, periventricular part",0,0,0
+PVR,Periventricular region,0,0,0
+PVT,Paraventricular nucleus of the thalamus,0,0,0
+PVZ,Periventricular zone,0,0,0
+PVa,"Periventricular hypothalamic nucleus, anterior part",0,0,0
+PVi,"Periventricular hypothalamic nucleus, intermediate part",0,0,0
+PVp,"Periventricular hypothalamic nucleus, posterior part",0,0,0
+PVpo,"Periventricular hypothalamic nucleus, preoptic part",0,0,0
+PYR,Pyramus (VIII),0,0,0
+Pa4,Paratrochlear nucleus,0,0,0
+Pa5,Paratrigeminal nucleus,0,0,0
+PeF,Perifornical nucleus,1,7,0
+PoT,Posterior triangular thalamic nucleus,0,0,0
+ProS,Prosubiculum,34,1,0
+ProSd,"Prosubiculum, dorsal part",0,0,0
+ProSd-sr,"Prosubiculum, dorsal part, stratum radiatum",0,0,0
+ProSv,"Prosubiculum, ventral part",0,0,0
+Prosv-sr,"Prosubiculum, ventral part, stratum radiatum",0,0,0
+RAmb,Midbrain raphe nuclei,0,0,0
+RC,rhinocele,0,0,0
+RCH,Retrochiasmatic area,1,0,0
+RE,Nucleus of reuniens,0,3,0
+REth,Retroethmoid nucleus,0,0,0
+RH,Rhomboid nucleus,0,0,0
+RHP,Retrohippocampal region,0,0,0
+RL,Rostral linear nucleus raphe,0,0,0
+RM,Nucleus raphe magnus,0,0,0
+RN,Red nucleus,0,0,0
+RO,Nucleus raphe obscurus,0,0,0
+RPA,Nucleus raphe pallidus,0,0,0
+RPF,Retroparafascicular nucleus,0,0,0
+RPO,Nucleus raphe pontis,0,0,0
+RR,"Midbrain reticular nucleus, retrorubral area",0,0,0
+RSP,Retrosplenial area,0,0,0
+RSPagl,"Retrosplenial area, lateral agranular part",96,33,183
+RSPd,"Retrosplenial area, dorsal part",66,49,166
+RSPv,"Retrosplenial area, ventral part",152,81,24
+RT,Reticular nucleus of the thalamus,13,30,0
+SAG,Nucleus sagulum,0,0,0
+SBPV,Subparaventricular zone,0,0,0
+SCH,Suprachiasmatic nucleus,0,0,0
+SCO,Subcommissural organ,0,0,0
+SCig,"Superior colliculus, motor related, intermediate gray layer",0,0,0
+SCm,"Superior colliculus, motor related",0,0,1
+SCs,"Superior colliculus, sensory related",0,0,64
+SEZ,subependymal zone,0,0,0
+SF,Septofimbrial nucleus,0,0,0
+SFO,Subfornical organ,0,0,0
+SG,Supragenual nucleus,0,0,0
+SGN,Suprageniculate nucleus,0,0,0
+SH,Septohippocampal nucleus,0,0,4
+SI,Substantia innominata,0,43,1
+SIM,Simple lobule,0,0,0
+SLC,Subceruleus nucleus,0,0,0
+SLD,Sublaterodorsal nucleus,0,0,0
+SMT,Submedial nucleus of the thalamus,0,1,0
+SNc,"Substantia nigra, compact part",0,0,0
+SNl,"Substantia nigra, lateral part",0,0,0
+SNr,"Substantia nigra, reticular part",0,0,0
+SO,Supraoptic nucleus,0,3,0
+SOC,Superior olivary complex,0,0,0
+SOCl,"Superior olivary complex, lateral part",0,0,0
+SOCm,"Superior olivary complex, medial part",0,0,0
+SPA,Subparafascicular area,0,0,0
+SPF,Subparafascicular nucleus,0,0,0
+SPFm,"Subparafascicular nucleus, magnocellular part",0,0,0
+SPFp,"Subparafascicular nucleus, parvicellular part",0,0,0
+SPIV,Spinal vestibular nucleus,0,0,0
+SPVC,"Spinal nucleus of the trigeminal, caudal part",0,0,0
+SPVI,"Spinal nucleus of the trigeminal, interpolar part",0,0,0
+SPVO,"Spinal nucleus of the trigeminal, oral part",0,0,0
+SPVOcdm,"Spinal nucleus of the trigeminal, oral part, caudal dorsomedial part",0,0,0
+SPVOmdmd,"Spinal nucleus of the trigeminal, oral part, middle dorsomedial part, dorsal zone",0,0,0
+SPVOmdmv,"Spinal nucleus of the trigeminal, oral part, middle dorsomedial part, ventral zone",0,0,0
+SPVOrdm,"Spinal nucleus of the trigeminal, oral part, rostral dorsomedial part",0,0,0
+SPVOvl,"Spinal nucleus of the trigeminal, oral part, ventrolateral part",0,0,0
+SS,Somatosensory areas,0,0,0
+SSN,Superior salivatory nucleus,0,0,0
+SSp,Primary somatosensory area,0,0,0
+SSp-bfd,"Primary somatosensory area, barrel field",0,2,1
+SSp-ll,"Primary somatosensory area, lower limb",0,0,2
+SSp-m,"Primary somatosensory area, mouth",0,0,3
+SSp-n,"Primary somatosensory area, nose",0,0,4
+SSp-tr,"Primary somatosensory area, trunk",0,0,0
+SSp-ul,"Primary somatosensory area, upper limb",0,0,1
+SSp-un,"Primary somatosensory area, unassigned",0,0,0
+SSs,Supplemental somatosensory area,3,1,2
+STN,Subthalamic nucleus,0,0,0
+STR,Striatum,8,23,1
+STRd,Striatum dorsal region,0,0,0
+STRv,Striatum ventral region,0,0,0
+SUB,Subiculum,68,5,1
+SUBd,"Subiculum, dorsal part",0,0,0
+SUBd-sr,"Subiculum, dorsal part, stratum radiatum",0,0,0
+SUBv,"Subiculum, ventral part",0,0,0
+SUBv-sr,"Subiculum, ventral part, stratum radiatum",0,0,0
+SUM,Supramammillary nucleus,0,0,0
+SUMl,"Supramammillary nucleus, lateral part",0,0,0
+SUMm,"Supramammillary nucleus, medial part",0,0,0
+SUT,Supratrigeminal nucleus,0,0,0
+SUV,Superior vestibular nucleus,0,0,0
+Su3,Supraoculomotor periaqueductal gray,0,0,0
+SubG,Subgeniculate nucleus,0,0,0
+TEa,Temporal association areas,7,5,1
+TH,Thalamus,3,5,0
+TM,Tuberomammillary nucleus,0,0,0
+TMd,"Tuberomammillary nucleus, dorsal part",0,0,0
+TMv,"Tuberomammillary nucleus, ventral part",0,0,0
+TR,Postpiriform transition area,0,1,0
+TRN,Tegmental reticular nucleus,0,0,0
+TRS,Triangular nucleus of septum,0,0,0
+TT,Taenia tecta,0,0,0
+TTd,"Taenia tecta, dorsal part",0,0,0
+TTv,"Taenia tecta, ventral part",0,0,0
+TU,Tuberal nucleus,0,10,0
+UVU,Uvula (IX),0,0,0
+V,Motor nucleus of trigeminal,0,0,0
+V3,third ventricle,1,0,1
+V4,fourth ventricle,0,0,0
+V4r,lateral recess,0,0,0
+VAL,Ventral anterior-lateral complex of the thalamus,0,2,0
+VCO,Ventral cochlear nucleus,0,0,0
+VENT,Ventral group of the dorsal thalamus,0,0,0
+VERM,Vermal regions,0,0,0
+VI,Abducens nucleus,0,0,0
+VII,Facial motor nucleus,0,0,0
+VIIIn,vestibulocochlear nerve,0,0,0
+VIIn,facial nerve,0,0,0
+VIS,Visual areas,0,0,0
+VISC,Visceral area,0,1,0
+VISa,Anterior area,10,0,1
+VISal,Anterolateral visual area,20,0,0
+VISam,Anteromedial visual area,145,4,0
+VISl,Lateral visual area,57,37,3
+VISli,Laterointermediate area,15,14,0
+VISlla,Laterolateral anterior visual area,0,0,0
+VISm,Medial visual area,0,0,0
+VISmma,Mediomedial anterior visual area,0,0,0
+VISmmp,Mediomedial posterior visual area,0,0,0
+VISp,Primary visual area,1984,868,270
+VISpl,Posterolateral visual area,13,1,4
+VISpm,posteromedial visual area,412,74,19
+VISpor,Postrhinal area,15,9,0
+VISrl,Rostrolateral visual area,17,6,0
+VISrll,Rostrolateral lateral visual area,0,0,0
+VIn,abducens nerve,0,0,0
+VL,lateral ventricle,0,4,0
+VLPO,Ventrolateral preoptic nucleus,0,0,0
+VM,Ventral medial nucleus of the thalamus,0,11,0
+VMH,Ventromedial hypothalamic nucleus,0,1,0
+VMHa,"Ventromedial hypothalamic nucleus, anterior part",0,0,0
+VMHc,"Ventromedial hypothalamic nucleus, central part",0,0,0
+VMHdm,"Ventromedial hypothalamic nucleus, dorsomedial part",0,0,0
+VMHvl,"Ventromedial hypothalamic nucleus, ventrolateral part",0,0,0
+VMPO,Ventromedial preoptic nucleus,0,0,0
+VNC,Vestibular nuclei,0,0,0
+VP,Ventral posterior complex of the thalamus,0,0,0
+VPL,Ventral posterolateral nucleus of the thalamus,9,3,0
+VPLpc,"Ventral posterolateral nucleus of the thalamus, parvicellular part",0,0,0
+VPM,Ventral posteromedial nucleus of the thalamus,7,3,0
+VPMpc,"Ventral posteromedial nucleus of the thalamus, parvicellular part",0,0,0
+VS,ventricular systems,0,0,0
+VTA,Ventral tegmental area,0,0,0
+VTN,Ventral tegmental nucleus,0,0,0
+VeCB,Vestibulocerebellar nucleus,0,0,0
+Vn,trigeminal nerve,0,0,0
+XII,Hypoglossal nucleus,0,0,0
+XIIn,hypoglossal nerve,0,0,0
+XIn,accessory spinal nerve,0,0,0
+Xi,Xiphoid thalamic nucleus,0,0,0
+Xn,vagus nerve,0,0,0
+ZI,Zona incerta,2,12,0
+ab,angular path,0,0,0
+aco,"anterior commissure, olfactory limb",0,0,1
+act,"anterior commissure, temporal limb",0,1,0
+alv,alveus,59,17,4
+amc,amygdalar capsule,0,6,0
+aolt,accessory olfactory tract,0,0,0
+aot,accessory optic tract,0,0,0
+apd,ansa peduncularis,0,0,0
+apf,ansoparamedian fissure,0,0,0
+ar,auditory radiation,6,1,0
+arb,arbor vitae,0,0,0
+bct,bulbocerebellar tract,0,0,0
+bic,brachium of the inferior colliculus,0,0,0
+bsc,brachium of the superior colliculus,2,5,1
+c,"central canal, spinal cord/medulla",0,0,0
+cVIIIn,cochlear nerve,0,0,0
+cbc,cerebellar commissure,0,0,0
+cbf,cerebellum related fiber tracts,0,0,0
+cbp,cerebellar peduncles,0,0,0
+cbt,corticobulbar tract,0,0,0
+cc,corpus callosum,0,0,0
+ccb,"corpus callosum, body",0,3,2
+ccg,genu of corpus callosum,0,0,2
+ccr,"corpus callosum, rostrum",0,0,0
+ccs,"corpus callosum, splenium",8,0,8
+cct,cuneocerebellar tract,0,0,0
+cett,cervicothalamic tract,0,0,0
+chfl,choroid fissure,0,0,0
+chpl,choroid plexus,1,4,1
+cic,inferior colliculus commissure,0,0,0
+cing,cingulum bundle,73,7,1
+cm,cranial nerves,0,0,0
+cpd,cerebal peduncle,0,0,0
+cpt,corticopontine tract,0,0,0
+crt,corticorubral tract,0,0,0
+csc,superior colliculus commissure,0,0,0
+cst,corticospinal tract,0,0,0
+cstc,"corticospinal tract, crossed",0,0,0
+cstu,"corticospinal tract, uncrossed",0,0,0
+ctb,central tegmental bundle,0,0,0
+cte,corticotectal tract,0,0,0
+cuf,cuneate fascicle,0,0,0
+cvb,efferent cochleovestibular bundle,0,0,0
+das,dorsal acoustic stria,0,0,0
+db,precommissural fornix diagonal band,0,0,0
+dc,dorsal column,0,0,0
+dcm,dorsal commissure of the spinal cord,0,0,0
+df,dorsal fornix,0,0,0
+dhc,dorsal hippocampal commissure,117,30,3
+dl,dorsolateral fascicle,0,0,0
+dlf,dorsal longitudinal fascicle,0,0,0
+drt,dorsal roots,0,0,0
+dscp,superior cerebellar peduncle decussation,0,0,0
+dtd,doral tegmental decussation,0,0,0
+dtt,dorsal tegmental tract,0,0,0
+ec,external capsule,15,17,3
+ee,"corpus callosum, extreme capsule",0,0,0
+eg,endorhinal groove,0,0,0
+em,external medullary lamina of the thalamus,0,0,0
+eps,extrapyramidal fiber systems,0,0,0
+epsc,cerebral nuclei related,0,0,0
+fa,"corpus callosum, anterior forceps",0,0,0
+fi,fimbria,1,18,1
+fiber tracts,fiber tracts,17,29,1
+fp,"corpus callosum, posterior forceps",241,75,5
+fpr,fasciculus proprius,0,0,0
+fr,fasciculus retroflexus,0,0,0
+fx,columns of the fornix,0,4,0
+fxpo,postcommissural fornix,0,0,0
+fxprg,"precommissural fornix, general",0,0,0
+fxs,fornix system,0,0,0
+gVIIn,genu of the facial nerve,0,0,0
+grey,Basic cell groups and regions,0,0,0
+grf,gracile fascicle,0,0,0
+grv,grooves,0,0,0
+grv of CBX,grooves of the cerebellar cortex,0,0,0
+grv of CTX,grooves of the cerebral cortex,0,0,0
+hbc,habenular commissure,0,0,0
+hc,hippocampal commissures,0,0,0
+hf,hippocampal fissure,0,0,0
+hht,hypothalamohypophysial tract,0,0,0
+iVIIn,intermediate nerve,0,0,0
+iaf,internal arcuate fibers,0,0,0
+ias,intermediate acoustic stria,0,0,0
+icf,intercrural fissure,0,0,0
+icp,inferior cerebellar peduncle,0,0,0
+im,internal medullary lamina of the thalamus,0,0,0
+int,internal capsule,19,16,0
+ipf,intraparafloccular fissure,0,0,0
+isl,Islands of Calleja,0,0,0
+islm,Major island of Calleja,0,0,0
+jrb,juxtarestiform body,0,0,0
+lab,longitudinal association bundle,0,0,0
+lfbs,lateral forebrain bundle system,0,0,0
+lfbst,thalamus related,0,0,0
+ll,lateral lemniscus,0,0,0
+lot,"lateral olfactory tract, body",0,0,1
+lotd,dorsal limb,0,0,0
+lotg,"lateral olfactory tract, general",0,0,0
+mcp,middle cerebellar peduncle,0,0,0
+mct,medial corticohypothalamic tract,0,0,0
+mfb,medial forebrain bundle,0,0,2
+mfbc,cerebrum related,0,0,0
+mfbs,medial forebrain bundle system,0,0,0
+mfbse,epithalamus related,0,0,0
+mfbsm,midbrain related,0,0,0
+mfbsma,mammillary related,0,0,0
+mfbst,dorsal thalamus related,0,0,0
+mfsbshy,hypothalamus related,0,0,0
+ml,medial lemniscus,0,0,0
+mlf,medial longitudinal fascicle,0,0,0
+moV,motor root of the trigeminal nerve,0,0,0
+mp,mammillary peduncle,0,0,0
+mtV,midbrain tract of the trigeminal nerve,0,0,0
+mtc,middle thalamic commissure,0,0,0
+mtg,mammillotegmental tract,0,0,0
+mtt,mammillothalamic tract,0,1,0
+nf,nodular fissure,0,0,0
+nst,nigrostriatal tract,0,1,0
+ntt,nigrothalamic fibers,0,0,0
+och,optic chiasm,0,0,0
+oct,olivocerebellar tract,0,0,0
+opt,optic tract,0,9,0
+or,optic radiation,2,1,0
+pap,pallidothalamic pathway,0,0,0
+pc,posterior commissure,0,0,0
+pce,precentral fissure,0,0,0
+pcf,preculminate fissure,0,0,0
+per,perforant path,0,0,0
+pfs,parafloccular sulcus,0,0,0
+php,propriohypothalamic pathways,0,0,0
+phpd,"propriohypothalamic pathways, dorsal",0,0,0
+phpl,"propriohypothalamic pathways, lateral",0,0,0
+phpm,"propriohypothalamic pathways, medial",0,0,0
+phpv,"propriohypothalamic pathways, ventral",0,0,0
+plf,posterolateral fissure,0,0,0
+pm,principal mammillary tract,0,0,0
+pms,paramedian sulcus,0,0,0
+pmx,premammillary commissure,0,0,0
+poc,preoptic commissure,0,0,0
+ppf,prepyramidal fissure,0,0,0
+pri,primary fissure,0,0,0
+psf,posterior superior fissure,0,0,0
+ptf,pallidotegmental fascicle,0,0,0
+pvbh,periventricular bundle of the hypothalamus,0,0,0
+pvbt,periventricular bundle of the thalamus,0,0,0
+py,pyramid,0,0,0
+pyd,pyramidal decussation,0,0,0
+rct,reticulocerebellar tract,0,0,0
+retina,retina,0,0,0
+rf,rhinal fissure,0,0,0
+ri,rhinal incisure,0,0,0
+root,root,3,7,8
+rrt,rubroreticular tract,0,0,0
+rst,retriculospinal tract,0,0,0
+rstl,"retriculospinal tract, lateral part",0,0,0
+rstm,"retriculospinal tract, medial part",0,0,0
+rust,rubrospinal tract,0,0,0
+sAMY,Striatum-like amygdalar nuclei,0,0,0
+sV,sensory root of the trigeminal nerve,0,0,0
+scp,superior cerebelar peduncles,0,0,0
+scrt,spinocervical tract,0,0,0
+sct,spinocerebellar tract,0,0,0
+sctd,dorsal spinocerebellar tract,0,0,0
+sctv,ventral spinocerebellar tract,0,0,0
+scwm,supra-callosal cerebral white matter,144,30,3
+sec,secondary fissure,0,0,0
+shp,spinohypothalamic pathway,0,0,0
+sif,simple fissure,0,0,0
+sm,stria medullaris,0,2,0
+smd,supramammillary decussation,0,0,0
+snp,striatonigral pathway,0,0,0
+sop,spino-olivary pathway,0,0,0
+sptV,spinal tract of the trigeminal nerve,0,0,0
+srp,spinoreticular pathway,0,0,0
+sst,spinothalamic tract,0,0,0
+st,stria terminalis,1,1,0
+stc,commissural branch of stria terminalis,0,2,0
+step,spinotelenchephalic pathway,0,0,0
+stf,subthalamic fascicle,0,0,0
+stp,spinotectal pathway,0,0,0
+sttl,lateral spinothalamic tract,0,0,0
+sttv,ventral spinothalamic tract,0,0,0
+sup,supraoptic commissures,0,0,0
+supa,"supraoptic commissures, anterior",0,0,0
+supd,"supraoptic commissures, dorsal",0,0,0
+supv,"supraoptic commissures, ventral",0,0,0
+svp,spinovestibular pathway,0,0,0
+tb,trapezoid body,0,0,0
+tct,trigeminocerebellar tract,0,0,0
+tn,terminal nerve,0,0,0
+tp,thalamic peduncles,0,0,0
+ts,solitary tract,0,0,0
+tsp,tectospinal pathway,0,0,0
+tspc,crossed tectospinal pathway,0,0,0
+tspd,direct tectospinal pathway,0,0,0
+ttp,tectothalamic pathway,0,0,0
+uf,uncinate fascicle,0,0,0
+vVIIIn,vestibular nerve,0,0,0
+vc,ventral commissure of the spinal cord,0,0,0
+vhc,ventral hippocampal commissure,0,2,0
+vlt,ventrolateral hypothalamic tract,0,0,0
+von,vomeronasal nerve,0,0,0
+vrt,ventral roots,0,0,0
+vsp,vestibulospinal pathway,0,0,0
+vtd,ventral tegmental decussation,0,0,0
+x,Nucleus x,0,0,0
+y,Nucleus y,0,0,0
+z,Nucleus z,0,0,0
